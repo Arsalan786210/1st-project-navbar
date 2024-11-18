@@ -1,0 +1,36 @@
+.teel ul {
+    margin: 21px;
+    list-style-type: none;
+    background-color: darkgoldenrod;
+    padding: 18px;
+    text-align: center;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    border-radius: 40px;
+    color: rgb(15, 15, 202);
+    text-shadow: 4px 4px 10px rgb(208, 247, 54);}
+.teel li {
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(194, 27, 27);
+    font-weight: bold;
+    margin: 1em;}
+.teel li {
+    color: goldenrod;
+    background-color: blueviolet;
+    border-radius: 9px;
+    cursor: pointer;}
+.teel li {text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 12px 12px;
+    transition: inherit;
+    background-color: brown;
+    border: 2px solid darkred;}
+.teel li:hover {
+    color: rgb(39, 11, 122);
+    background-color: rgb(210, 172, 97);}
+.teel ul {
+    background-image: url(./pexels-photo-255379.webp);}
+body { background-image: url( ./Tuk-Tuk-Indian-Street-Food-Dish.jpg)
